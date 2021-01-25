@@ -96,7 +96,7 @@ function submit1() {
   addNotesFront("Restock Notes: ", myDIV5.textContent);
   addNotesBack("Backroom Notes: ", myDIV6.textContent);
   addNotesSys("Systems Notes: ", myDIV7.textContent);
-  document.querySelector(".container1").innerHTML ="";
+  document.querySelector(".container1").innerHTML = "";
   };
 
 // Dealing with Input width
